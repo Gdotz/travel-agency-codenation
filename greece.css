@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Oswald&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Kdam+Thmor+Pro&family=Oswald&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Kdam+Thmor+Pro&family=Oswald&family=Satisfy&family=Teko:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0.5%;
+    margin: 0.5%;
+}
+
+body{
+    background-color: powderblue;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: cornflowerblue;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: x-large;
+}
+
+.navbar a {
+    justify-content: center;
+    color: aliceblue;
+}
+
+.navbar a:hover{
+    justify-content: center;
+    color: black;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+}
+
+.para-1{
+    text-align: center;
+    font-size: x-large;
+}
+
+.image-3{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.image-3 img{
+    width: 400px;
+    height: auto;
+}
+
+.navbar-1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: cornflowerblue;
+}
+
+.navbar-1 a{
+    justify-content: center;
+    color: aliceblue;
+}
+
+.navbar-1 a:hover{
+    justify-content: center;
+    color: black;
+}
